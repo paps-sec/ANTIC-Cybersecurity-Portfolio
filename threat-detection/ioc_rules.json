@@ -1,0 +1,14 @@
+
+{
+    "indicators": [
+      {
+        "type": "hash", 
+        "value": "a1b2c3...",
+        "severity": "critical"
+      }
+    ],
+    "virustotal": {
+      "Kaspersky": "malicious",
+      "Microsoft": "trojan"
+    }
+  }
