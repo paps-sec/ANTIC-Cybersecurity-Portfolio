@@ -3,7 +3,7 @@
 ### **1. Information Security Policy (ISO 27001 Aligned)**  
 ```markdown
 # ANTIC Cameroon Information Security Policy  
-**Last Updated:** [Date]  
+**Last Updated:** 26-02-2025  
 
 ## Purpose  
 To establish a framework for protecting ANTIC’s information assets, ensuring confidentiality, integrity, and availability in alignment with ISO 27001 (Annex A) and Cameroon’s Law No. 2010/012 on Cybersecurity.  
