@@ -1,16 +1,16 @@
-# 🛡️ ANTIC Cameroon Log Analysis Toolkit
+#  ANTIC Cameroon Log Analysis Toolkit
 
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 A cybersecurity toolkit for monitoring and securing Cameroon's government web infrastructure. Developed for the National Agency for Information and Communication Technology (ANTIC).
 
-## 📦 Contents
-1. **Apache Log Parser** - Security-focused log analysis
-2. **SIEM Integration** - Real-time threat forwarding
-3. **Compliance Reporting** - ANTIC-ready documentation
+##  Contents
+1. Apache Log Parser - Security-focused log analysis
+2. SIEM Integration - Real-time threat forwarding
+3. Compliance Reporting - ANTIC-ready documentation
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 ```bash
@@ -18,12 +18,12 @@ pip install -r requirements.txt
 
 📄 Apache Log Parser
 bash
-Copy
+
 python apache-log-parser.py --log access.log --output antic_report.md
 Sample Output:
 
 markdown
-Copy
+
 # ANTIC Web Security Report
 
 ## Top IP Addresses
@@ -38,7 +38,7 @@ Copy
 Create siem_config.ini:
 
 ini
-Copy
+
 [ELASTICSEARCH]
 host = https://elastic.antic.cm
 user = admin
@@ -46,7 +46,7 @@ password = [REDACTED]
 Send alerts:
 
 python
-Copy
+
 python siem-integration.py
 🎯 ANTIC Use Cases
 Tool	Agency Application
