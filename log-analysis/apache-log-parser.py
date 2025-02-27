@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
 ANTIC Cameroon Apache Log Analyzer
-Author: [Your Name]
-Date: [Date]
+Author: Bertrand Fossung
+Date: 26-02-2025
 """
 
 import re
