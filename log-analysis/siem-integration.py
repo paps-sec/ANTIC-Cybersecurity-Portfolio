@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
 ANTIC Cameroon SIEM Integration Tool
-Author: [Your Name]
-Date: [Date]
+Author: Bertrand Fossung
+Date: 26-02-2025
 """
 
 import json
